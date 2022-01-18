@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteelGreen78
-- 👀 I’m interested in ...
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on every thingd that interrest me
+- 💞️ I’m looking to collaborate on every things that interrest me
 - 📫 How to reach me ...
 
 <!---
